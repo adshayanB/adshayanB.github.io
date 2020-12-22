@@ -31,9 +31,9 @@
             box-shadow: 1000px 100px 50000000px #745fc0;
             
         }
-        html {
+html {
             scroll-behavior: smooth;
-          }
+    }
 
 .card {
     border-radius: 15px !important;
